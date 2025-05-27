@@ -1,6 +1,6 @@
 # hackathon-solution-2
 
-# RED: This is the solution for the Hackathon Deployed with Bold.New
+This is the solution for the Hackathon Deployed with Bold.New
 
 <!-- The Prompt I used  -->
 
